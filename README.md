@@ -7,8 +7,8 @@
 ![license](https://img.shields.io/github/license/nitr7gen/codewars?style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/nitr7gen/codewars?color=green&style=flat-square)
 [![cc](https://api.codeclimate.com/v1/badges/2a510e29744628d78edd/maintainability)](https://codeclimate.com/github/nitr7gen/codewars/maintainability)
-![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitr7gen%2Fcodewars&count_bg=%2379C83D&title_bg=%23555555&icon=codewars.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
-![cw-micro](https://www.codewars.com/users/nitr7gen/badges/micro)
+![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1YiB%2Fcodewars&count_bg=%2379C83D&title_bg=%23555555&icon=codewars.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
+![cw-micro](https://www.codewars.com/users/1YiB/badges/micro)
 
 *from codewars [code of conduct](https://docs.codewars.com/community/rules/#:~:text=Be%20honorable.%20Cheating,every%20possible%20way)*:
 >Be honorable. Cheating is discouraged. If you find a way to complete a kata that falls outside the kata itself (notably but not limited to: exploiting Codewars's test framework, website and servers), then refrain from doing so. Violators will be banned for such usage. Codewars has algorithms to detect some forms of cheating but does not attempt to track down every possible way.
