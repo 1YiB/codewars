@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/codewars/branding/master/light-text-logo.png">
 
 ![py](https://img.shields.io/badge/python-v3.8-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/nitr7gen/codewars?style=flat-square)
-![license](https://img.shields.io/github/license/nitr7gen/codewars?style=flat-square)
-![contributors](https://img.shields.io/github/contributors/nitr7gen/codewars?color=green&style=flat-square)
-[![cc](https://api.codeclimate.com/v1/badges/2a510e29744628d78edd/maintainability)](https://codeclimate.com/github/nitr7gen/codewars/maintainability)
+![GitHub last commit](https://img.shields.io/github/last-commit/1YiB/codewars?style=flat-square)
+![license](https://img.shields.io/github/license/1YiB/codewars?style=flat-square)
+![contributors](https://img.shields.io/github/contributors/1YiB/codewars?color=green&style=flat-square)
+[![cc](https://api.codeclimate.com/v1/badges/2a510e29744628d78edd/maintainability)](https://codeclimate.com/github/1YiB/codewars/maintainability)
 ![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1YiB%2Fcodewars&count_bg=%2379C83D&title_bg=%23555555&icon=codewars.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
 ![cw-micro](https://www.codewars.com/users/1YiB/badges/micro)
 
@@ -65,4 +65,4 @@ Honor represents the level of respect a user has earned from the community, base
 
 | <a id="5kyu">5kyu</a>                                                          	| <a id="4kyu">4kyu</a>                                                          	| <a id="3kyu">3kyu</a>                                                                	|
 |--------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------	|
-| <a href="https://github.com/nitr7gen/codewars/tree/main/5kyu"><u>`url`</u></a> 	| <a href="https://github.com/nitr7gen/codewars/tree/main/4kyu"><u>`url`</u></a> 	| <a href="https://github.com/nitr7gen/codewars/tree/main/3kyu"><u>`soon`</u></a> 	|
+| <a href="https://github.com/1YiB/codewars/tree/main/5kyu"><u>`url`</u></a> 	| <a href="https://github.com/1YiB/codewars/tree/main/4kyu"><u>`url`</u></a> 	| <a href="https://github.com/1YiB/codewars/tree/main/3kyu"><u>`soon`</u></a> 	|
